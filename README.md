@@ -1,2 +1,2 @@
-# compition-project-1
-the first comption project
+# first-project-of-competation
+the first project
